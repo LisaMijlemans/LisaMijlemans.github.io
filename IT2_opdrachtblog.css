@@ -1,0 +1,456 @@
+body{
+  background-image: url("https://s-media-cache-ak0.pinimg.com/564x/a1/0f/e0/a10fe0d581012ecfe9b8b52d6464d10d.jpg");
+  background-position: center;
+  font-family: "helvetica neue";
+}
+
+/*HEADER*/
+.header{
+  margin: 10px auto;
+  width: 1300px;
+  height: 220px;
+  border: 1px solid rgba(255,255,255,0.6);
+  background-image: url("https://scontent-amt2-1.xx.fbcdn.net/t31.0-8/12973316_10205641917037641_5287511742787460644_o.jpg");
+  background-size: 50% 200%;
+  background-position: 0px -121px;
+}
+.kaderOpacity{
+  margin: -231px auto;
+  width: 1300px;
+  height: 220px;
+  background-color: rgba(255,255,255,0.2);
+}
+h1 {
+  font-family: "bebas neue";
+  font-size: 80px;
+  margin-top: 70px;
+  text-align: center;
+  color: white;
+}
+
+/*NAV*/
+nav{
+  margin-top: 300px;
+  text-align: center;
+  font-family: "bebas neue";
+  font-size: 20px;
+  color: darkred;
+}
+nav li {
+  display: inline;
+}
+a{
+  text-decoration: none;
+  color: darkred;
+  font-family: "bebas neue";
+}
+
+/*HOME*/
+.kaderAfbeeldingen {
+  width: 1300px;
+  height: 700px;
+  border: 1px solid rgba(255,255,255,0.6);
+  background-color: rgba(255,255,255,0.6);
+  margin: 185px auto;
+  box-shadow: -10px 10px 5px rgba(0,0,0,0.2);
+}
+h6{
+  font-family: "bebas neue";
+  font-size: 30px;
+  font-weight: bold;
+  color: darkred;
+  display: inline;
+}
+.stories{
+  font-family: "bebas neue";
+  font-size: 30px;
+  font-weight: bold;
+  color: darkred;
+  margin: 30px 40px;
+}
+.verdergaan{
+  margin: 20px auto;
+  text-align: center;
+}
+.foto {
+  width: 400px;
+  margin: 0px 15px;
+}
+.tagline{
+  font-size: 20px;
+  font-weight: bold;
+}
+span{
+  color: darkred;
+  font-family: "bebas neue";
+}
+.tekst1{
+  width: 385px;
+  height: 190px;
+  margin: -420px 85px;
+  padding: 0px 8px;
+  background-color: rgba(0,0,0,0.15);
+  line-height: 19px;
+}
+.tekst2{
+  width: 385px;
+  height: 190px;
+  margin: 230px 518px;
+  padding: 0px 8px;
+  background-color: rgba(0,0,0,0.15);
+  line-height: 19px;
+}
+.tekst3{
+  width: 385px;
+  height: 190px;
+  margin: -420px 952px;
+  padding: 0px 8px;
+  background-color: rgba(0,0,0,0.15);
+  line-height: 19px;
+}
+
+/*ABOUT*/
+h2 {
+  font-family: "bebas neue";
+  font-size: 50px;
+  font-weight: bold;
+  color: darkred;
+  margin: -20px 40px;
+}
+.about{
+  margin: 100px 250px;
+  width: 700px;
+  height: 220px;
+  border: 1px solid rgba(255,255,255,0.2);
+  background-color: rgba(255,255,255,0.6);
+  box-shadow: -10px 10px 5px rgba(0,0,0,0.2);
+}
+.tekstAbout{
+  margin: 40px 40px;
+  line-height: 18px;
+  display: block;
+}
+h3 {
+  font-family: "bebas neue";
+  font-size: 50px;
+  font-weight: bold;
+  color: darkred;
+  margin: -25px 20px;
+}
+
+/*IK*/
+.ik{
+  width: 200px;
+  height: 220px;
+  margin-left: 980px;
+  margin-top: -322px;
+  border: 1px solid black;
+  background-color: rgba(255,255,255,0.6);
+  box-shadow: -10px 10px 5px rgba(0,0,0,0.2);
+  background-image: url("_DSC0104(2).jpg");
+  background-size: 200% 120%;
+  background-position: 30% 120%;
+}
+
+/*CURRENT*/
+h4 {
+  font-family: "bebas neue";
+  font-size: 50px;
+  margin: -25px 20px;
+  font-weight: bold;
+  color: darkred;
+}
+.kaderCurrent{
+  width: 1300px;
+  height: 700px;
+  margin: 600px auto;
+  border: 1px solid rgba(255,255,255,0.2);
+  background-color: rgba(255,255,255,0.6);
+  box-shadow: -10px 10px 5px rgba(0,0,0,0.2);
+}
+.familie{
+  margin: 50px 300px;
+  outline-offset: -10px;
+}
+h5 {
+  font-family: "bebas neue";
+  font-size: 50px;
+  font-weight: bold;
+  color: darkred;
+  margin: -70px 340px;
+}
+.tekstBlog1{
+  width: 710px;
+  margin: 90px 300px;
+  line-height: 19px;
+  background-color: rgba(0,0,0,0.15);
+  padding: 4px 8px;
+}
+
+/*FOOTER*/
+footer{
+  width: 1300px;
+  padding: 30px 0px;
+  margin: -500px auto;
+  text-align: center;
+  border: 1px solid rgba(255,255,255,0.2);
+  background-color: rgba(255,255,255,0.6);
+  font-family: "bebas neue";
+  font-size: 30px;
+  color: darkred;
+}
+.sociaal1{
+  width: 25px;
+  margin-left: 50px;
+}
+.sociaal2{
+  width: 28px;
+  margin-left: 10px;
+}
+.sociaal3{
+  width: 32px;
+  margin-left: 10px;
+}
+
+/*EXTRA*/
+.prev:hover{
+  text-decoration: underline;
+}
+.later:hover{
+  text-decoration: underline;
+}
+.leesverder:hover{
+  text-decoration: underline;
+  color: red;
+}
+
+/*RESPONSIVE*/
+@media (max-width: 1100px) {
+    body {
+        width: 60%;
+    }
+    .header{
+      width: 1100px;
+    }
+  .about{
+    width: 600px;
+    margin-left: 50px;
+  }
+  .ik{
+    margin-left: 700px;
+  }
+  .foto{
+    width: 300px;
+  }
+  .tekst1{
+    width: 280px;
+    height: 200px;
+    margin: -480px 68px;
+  }
+    .tekst2{
+    width: 280px;
+    height: 200px;
+    margin: 280px 400px;
+  }
+    .tekst3{
+    width: 280px;
+    height: 200px;
+    margin: -480px 738px;
+  }
+  .kaderAfbeeldingen{
+    width: 1000px;
+    margin-left: 50px;
+  }
+  .verdergaan{
+    margin: 40px -100px;
+  }
+  .kaderCurrent{
+    width: 1000px;
+    margin: 700px 50px;
+  }
+  .familie{
+    margin: 30px 100px;
+  }
+  h5{
+    margin: -60px 120px;
+  }
+  .tekstBlog1{
+    margin-left: 100px;
+  }
+  footer{
+    width: 1000px;
+    margin: -620px 50px;
+  }
+}
+
+@media (max-width: 910px) {
+    body {
+        width: 70%;
+    }
+    .header{
+      width: 900px;
+    }
+  .ik{
+    margin: -30px auto;
+  }
+  .foto{
+    display:block;
+    margin-top: 10px;
+  }
+  .tekst1{
+    margin: -35px 370px;
+    height: 225px;
+  }
+  .tekst2{
+    margin: -460px 370px;
+    height: 225px;
+  }
+    .tekst3{
+    margin: -448px 370px;
+    height: 225px;
+  }
+    .kaderAfbeeldingen{
+    width: 700px;
+      margin-left: 40px;
+      height: 900px;
+  }
+  .kaderCurrent{
+    width: 700px;
+  }
+  .familie{
+    width: 500px;
+  }
+  .tekstBlog1{
+    width: 484px;
+  }
+    footer{
+    width: 700px;
+    margin: -620px 50px;
+  }
+
+}
+
+@media (max-width: 810px) {
+    body {
+        width: 80%;
+    }
+  .header{
+    width: 800px;
+  }
+}
+
+@media (max-width: 710px) {
+    body {
+        width: 90%;
+    }
+  .header{
+    width: 700px;
+  }
+  .about{
+    width: 400px;
+    height: 350px;
+    margin: 50px auto;
+  }
+  .foto{
+    width: 200px;
+  }
+  .tekst1{
+    margin: -348px 270px;
+    width: 400px;
+    height: 150px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+    .tekst2{
+    margin: 40px 270px;
+    width: 400px;
+    height: 150px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+    .tekst3{
+    margin: -350px 270px;
+    width: 400px;
+    height: 150px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+  .kaderAfbeeldingen{
+    width: 650px;
+    height: 650px;
+  }
+  .kaderCurrent{
+    width: 650px;
+    margin: 800px 40px;
+  }
+      footer{
+    width: 600px;
+    margin: -620px 50px;
+  }
+}
+
+@media (max-width: 610px) {
+    body {
+        width: 95%;
+    }
+  .header{
+    width: 500px;
+  }
+    .kaderAfbeeldingen{
+    width: 420px;
+    height: 650px;
+  }
+  .foto{
+    width: 150px;
+    margin-top: 40px;
+  }
+  h6{
+    font-size: 20px;
+  }
+  .tekst1{
+    font-size: 12px;
+    line-height: 14px;
+    height: 150px;
+    width: 236px;
+    margin: -410px 210px;
+  }
+    .tekst2{
+    font-size: 12px;
+    line-height: 14px;
+    height: 150px;
+    width: 236px;
+    margin: 105px 210px;
+  }
+      .tekst3{
+    font-size: 12px;
+    line-height: 14px;
+    height: 150px;
+    width: 236px;
+    margin: -410px 210px;
+  }
+  .verdergaan{
+    margin: -20px 0px;
+  }
+  .kaderCurrent{
+    width: 420px;
+    margin: 900px 40px;
+    height: 580px;
+  }
+  .familie{
+    width: 350px;
+    margin: 30px 35px;
+  }
+  h5{
+    margin: -50px 40px;
+    font-size: 40px;
+  }
+  .tekstBlog1{
+    margin: 80px 34px;
+    width: 335px;
+  }
+      footer{
+    width: 420px;
+    margin: -860px 40px;
+    height: 40px;
+  }
+}

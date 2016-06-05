@@ -1,0 +1,230 @@
+body{
+  background-image: url("https://s-media-cache-ak0.pinimg.com/564x/a1/0f/e0/a10fe0d581012ecfe9b8b52d6464d10d.jpg");
+  background-position: center;
+  font-family: "helvetica neue";
+}
+nav{
+  margin-top: 80px;
+  text-align: center;
+  font-family: "bebas neue";
+  font-size: 20px;
+  color: darkred;
+}
+nav li {
+  display: inline;
+}
+.familie{
+  width: 720px;
+  margin: 50px 140px;
+}
+.Greece{
+  width: 720px;
+  margin: 50px 140px;
+}
+.pukkelpop{
+  width: 720px;
+  margin: 50px 140px;
+}
+h5 {
+  font-family: "Bebas neue";
+  font-size: 50px;
+  font-weight: bold;
+  color: darkred;
+  margin: -70px 165px;
+}
+.tekstBlog1{
+  font-family: "helvetica neue";
+  width: 706px;
+  margin: 100px 140px;
+  line-height: 19px;
+  background-color: rgba(0,0,0,0.15);
+  padding: 4px 8px;
+
+}
+.kaderCurrent{
+  width: 1000px;
+  height: 1050px;
+  margin: 80px auto;
+  border: 1px solid rgba(255,255,255,0.2);
+  background-color: rgba(255,255,255,0.6);
+  box-shadow: -10px 10px 5px rgba(0,0,0,0.2);
+}
+h4 {
+  font-family: "bebas neue";
+  font-size: 50px;
+  margin: -25px 20px;
+  font-weight: bold;
+  color: darkred;
+}
+.tagline{
+  font-size: 20px;
+  font-weight: bold;
+}
+span{
+  color: darkred;
+  font-family: "bebas neue";
+}
+a{
+  text-decoration: none;
+  color: darkred;
+  font-family: "bebas neue";
+}
+footer{
+  width: 1000px;
+  margin: 100px auto;
+  text-align: center;
+  padding: 30px 0px;
+  border: 1px solid rgba(255,255,255,0.2);
+  background-color: rgba(255,255,255,0.6);
+  font-family: "bebas neue";
+  font-size: 30px;
+  color: darkred;
+}
+.sociaal1{
+  width: 25px;
+  margin-left: 50px;
+}
+.sociaal2{
+  width: 28px;
+  margin-left: 10px;
+}
+.sociaal3{
+  width: 32px;
+  margin-left: 10px;
+}
+
+@media (max-width: 1100px) {
+    body {
+        width: 60%;
+    }
+
+  .familie{
+    width: 700px;
+    margin: 60px 100px;
+  }
+  .Greece{
+    width: 700px;
+    margin: 60px 100px;
+  }
+  .pukkelpop{
+    width: 700px;
+    margin: 60px 100px;
+  }
+  .kaderCurrent{
+    width: 900px;
+    margin: 60px 60px;
+    height: 1100px;
+  }
+  .tekstBlog1{
+    margin: 100px 100px;
+    width: 690px;
+  }
+
+}
+
+@media (max-width: 910px) {
+    body {
+        width: 70%;
+    }
+
+  .kaderCurrent{
+    width: 700px;
+    height: 1000px;
+  }
+  .familie{
+    width: 500px;
+  }
+  .Greece{
+    width: 500px;
+  }
+  .pukkelpop{
+    width: 500px;
+  }
+  .tekstBlog1{
+    width: 484px;
+  }
+    footer{
+    width: 700px;
+    margin: 20px 50px;
+  }
+  h5{
+    margin: -75px 130px;
+    font-size: 40px;
+  }
+
+}
+
+@media (max-width: 810px) {
+    body {
+        width: 80%;
+    }
+}
+
+@media (max-width: 710px) {
+  body{
+    width: 90%;
+  }
+  .kaderCurrent{
+    width: 600px;
+    margin: 100px 40px;
+  }
+  .familie{
+    width: 480px;
+    margin: 60px 60px;
+  }
+  .Greece{
+    width: 480px;
+    margin: 60px 60px;
+  }
+  .pukkelpop{
+    width: 480px;
+    margin: 60px 60px;
+  }
+  h5{
+    margin-left: 80px;
+  }
+  .tekstBlog1{
+    width: 466px;
+    margin: 100px 60px;
+  }
+      footer{
+    width: 600px;
+    margin: 20px 50px;
+  }
+}
+
+@media (max-width: 610px) {
+    body {
+        width: 95%;
+    }
+  .kaderCurrent{
+    width: 420px;
+    margin: 100px 40px;
+    height: 1000px;
+  }
+  .familie{
+    width: 350px;
+    margin: 30px 35px;
+  }
+  .Greece{
+    width: 350px;
+    margin: 30px 35px;
+  }
+  .pukkelpop{
+    width: 350px;
+    margin: 30px 35px;
+  }
+  h5{
+    margin: -50px 40px;
+    font-size: 40px;
+  }
+  .tekstBlog1{
+    margin: 80px 34px;
+    width: 335px;
+  }
+      footer{
+    width: 420px;
+    margin: 20px 40px;
+    height: 40px;
+  }
+}
